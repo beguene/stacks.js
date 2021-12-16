@@ -42,9 +42,7 @@
   "dependencies": {
     "@stacks/common": "^3.3.0",
     "@stacks/network": "^3.3.0",
-    "@stacks/transactions": "^3.3.0",
-    "@types/bn.js": "^4.11.6",
-    "bn.js": "^5.2.0"
+    "@stacks/transactions": "^3.3.0"
   },
   "devDependencies": {
     "@types/jest": "^26.0.22",
